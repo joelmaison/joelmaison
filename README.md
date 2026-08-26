@@ -62,6 +62,3 @@ Currently open to Analytics Engineer, Data Engineer, and Applied AI roles.
 - 📧 joejoemaison@gmail.com
 
 ---
-
-![Joël's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelmaison&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelmaison&layout=compact&theme=tokyonight&hide_border=true)
